@@ -1,0 +1,8 @@
+{
+  "name": "Personal - Funcional & Corrida",
+  "description": "Uma plataforma completa para gestão de academias de funcional e corrida. Ferramentas administrativas, acompanhamento de alunos, feed social e insights via IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
