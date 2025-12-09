@@ -1245,7 +1245,7 @@ const App = () => {
                     </form>
 
                     <div className="mt-6 flex-1 overflow-y-auto">
-                        <p className="text-slate-500 text-xs uppercase font-bold text-center mb-3">Acesso Rápido (Teste)</p>
+                        <p className="text-slate-500 text-xs uppercase font-bold text-center mb-3">Entrar como (Modo Teste)</p>
                         <div className="grid gap-2">
                              <button 
                                 onClick={() => {
